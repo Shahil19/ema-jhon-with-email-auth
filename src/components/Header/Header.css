@@ -1,4 +1,4 @@
-.header{
+.header {
     height: 80px;
     background-color: #1C2B35;
     display: flex;
@@ -8,13 +8,14 @@
     padding-right: 140px;
 }
 
-.header a{
+.header a {
     color: #FFFFFF;
     text-decoration: none;
     font-size: 17px;
     margin-left: 36px;
 }
-.header a:hover{
+
+.header a:hover {
     color: orange;
 }
 
@@ -22,6 +23,6 @@
     margin-left: 15px;
     padding: 8px 10px;
     border-radius: 8px;
-    background-color: white;
+    background-color: rgb(81, 244, 27);
     border: none;
 }
